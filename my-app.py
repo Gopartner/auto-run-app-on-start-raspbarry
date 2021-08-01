@@ -1,0 +1,2 @@
+#contoh
+print("hello world!")
